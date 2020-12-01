@@ -5,6 +5,8 @@
 1920 x 1200 pixels, RGB-A 4 channels, png format 250 images    
 <https://github.com/RasmusHaugaard/wrs-data-collection>
 
+Each image contains almost always 12 objects.    
+
 EfficientDet <https://github.com/google/automl.git>    
 
 ```
