@@ -8,6 +8,10 @@
 EfficientDet <https://github.com/google/automl.git>    
 
 ```
+conda create -n ws python=3.7
+conda activate ws
+
 git clone https://github.com/google/automl.git
 pip -r requirements.txt
+pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 ```
