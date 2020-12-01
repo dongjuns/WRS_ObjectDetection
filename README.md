@@ -6,3 +6,8 @@
 <https://github.com/RasmusHaugaard/wrs-data-collection>
 
 EfficientDet <https://github.com/google/automl.git>    
+
+```
+git clone https://github.com/google/automl.git
+pip -r requirements.txt
+```
